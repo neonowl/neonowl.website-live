@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: jerm
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jeremy Chandler Van Doren
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jeremy
+last_name: Van Doren
 
 # Status emoji
 status:
@@ -17,35 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Systems Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: FAMU-FSU College of Engineering
+    url: https://eng.famu.fsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Technical problem-solver and creative media expert with a passion for empowering users through technology.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jerm@neonowl.net'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jcvd.msse 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jeremy-chandler-van-doren-8183a9211/ 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    label: Subscribe to the weblog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -54,6 +52,14 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Experienced technology professional with a decade-plus at Apple Support. Strong background in troubleshooting, customer service, web development, and creative media (photography, videography). Passionate about using technology to empower and connect others.
+
+Skills
+
+Online Community Building
+Interpersonal Communication & Mediation
+Technical Support (Hardware/Software)
+Web Development (Full Stack)
+JavaScript & Python Scripting
+Photography & Digital Video Production
+
