@@ -1,7 +1,3 @@
-# [Hugo Landing Page Theme](https://github.com/HugoBlox/theme-landing-page)
+# neonOwl.website - Landing Page Template
 
-## NeonOwl Website Landing Page Template
-
-### To-Do
-
-- [ ] Add button & link to GitHub repository to landing page
+## Source: [Hugo Landing Page Theme](https://github.com/HugoBlox/theme-landing-page)
