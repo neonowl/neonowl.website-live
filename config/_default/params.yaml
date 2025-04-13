@@ -15,7 +15,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,7 +38,7 @@ header:
       filename: "logo.gif"
     button:
       enable: true
-      text: "Get Started"
+      text: "Hugo Blox Templates"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
@@ -47,7 +46,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} neonowl.website'
+    notice: '© 2024-2025 neonowl.website'
 
 # Localization
 locale:

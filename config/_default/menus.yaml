@@ -9,12 +9,4 @@ main:
   - name: About
     url: /#about
     weight: 20
-  - name: Mailing List
-    url: /#signup
-    weight: 30
-  - name: Resources
-    weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+    

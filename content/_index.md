@@ -13,8 +13,8 @@ sections:
       title: neonowl.website
       text: "Creativity is combining things. -- Steve Jobs"
       primary_action:
-        text: HugoBlox Website
-        url: https://hugoblox.com/
+        text: Hugo Blox Docs
+        url: https://docs.hugoblox.com/
         icon: rocket-launch
     design:
       spacing:

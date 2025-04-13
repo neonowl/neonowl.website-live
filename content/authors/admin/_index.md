@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:jerm@neonowl.net'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/jcvd.msse 
+    url: https://www.instagram.com/djjermyjerm
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jeremy-chandler-van-doren-8183a9211/ 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -49,7 +49,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://www.neonowl.net"
 ---
 
 Experienced technology professional with a decade-plus at Apple Support. Strong background in troubleshooting, customer service, web development, and creative media (photography, videography). Passionate about using technology to empower and connect others.
