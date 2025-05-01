@@ -38,8 +38,8 @@ header:
       filename: "logo.gif"
     button:
       enable: true
-      text: "Hugo Blox Templates"
-      url: "https://hugoblox.com/templates/"
+      text: "View on GitHub"
+      url: "https://github.com/neonowl/neonowl.website-live"
     show_search: true
     show_theme_chooser: true
 
